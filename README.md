@@ -1,2 +1,2 @@
 # gdrive-cli
-A sample nodejs CLI app 
+A sample nodejs CLI APP
